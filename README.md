@@ -1,2 +1,2 @@
-<h1>Ritual Practice</h1>
-<p1>A ritual for speed, power, profit</p1>
+<h1>Staring Ritual</h1>
+<p1>Project start ritual for speed, power, profit</p1>
